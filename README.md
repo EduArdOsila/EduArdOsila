@@ -1,3 +1,5 @@
+-    OLA EU SOU O EDUARDO 
+- 
 - 👋 bom dia eu sou o @EduArdOsila
 - 👀 eu me interosso por tecnologia 
 - 🌱 atualmente estou aprendendo a progamaçaoo basica
