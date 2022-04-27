@@ -3,7 +3,7 @@
 - 👋 bom dia eu sou o @EduArdOsila
 - 👀 eu me interosso por tecnologia 
 - 🌱 atualmente estou aprendendo a progamação basica
-- 💞️ estou pensando em ajudar com atividades escolares 
+- 💞️ pensanso em ajudar com atividades escolares 
 - 📫 meu gmail de contato é @silva.alves.eduardo@escola.ppr.gov.br
 
 <!---
